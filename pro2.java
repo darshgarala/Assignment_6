@@ -1,4 +1,4 @@
-public class Practical2 {
+public class Pro2 {
 
     // Starting counter
     int counter = 1;
@@ -70,7 +70,7 @@ System.out.print(
         N = 10;
 
         // Create an object of class
-        Practical2 mt = new Practical2();
+        Pro2 mt = new Pro2();
 
         // Create thread t1
         Thread t1 = new Thread(new Runnable() {
