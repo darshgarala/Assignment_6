@@ -7,7 +7,7 @@ class MultithreadingDemo extends Thread {
                             + " is running");
         } catch (Exception e) {
             // Throwing an exception
-            // h1
+            // h
             System.out.println("Exception is caught");
         }
     }
