@@ -7,13 +7,12 @@ class MultithreadingDemo extends Thread {
                             + " is running");
         } catch (Exception e) {
             // Throwing an exception
+            // h1
             System.out.println("Exception is caught");
         }
     }
 }
 
-// Main Class
-// hello my name is darsh
 public class Pro1 {
     public static void main(String[] args) {
         int n = 8; // Number of threads
