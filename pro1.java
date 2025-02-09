@@ -12,7 +12,7 @@ class MultithreadingDemo extends Thread {
         }
     }
 }
-
+// my name is darsh garala
 public class Pro1 {
     public static void main(String[] args) {
         int n = 8; // Number of threads
